@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Galina\\source\\repos\\Angry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E742EDF-80DF-4B82-8D94-35C31CF7DBBA}|Angry\\Angry.csproj|c:\\users\\galina\\source\\repos\\angry\\angry\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E742EDF-80DF-4B82-8D94-35C31CF7DBBA}|Angry\\Angry.csproj|solutionrelative:angry\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E742EDF-80DF-4B82-8D94-35C31CF7DBBA}|Angry\\Angry.csproj|c:\\users\\galina\\source\\repos\\angry\\angry\\date.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E742EDF-80DF-4B82-8D94-35C31CF7DBBA}|Angry\\Angry.csproj|solutionrelative:angry\\date.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\Galina\\source\\repos\\Angry\\Angry\\D.cs",
+              "RelativeDocumentMoniker": "Angry\\D.cs",
+              "ToolTip": "C:\\Users\\Galina\\source\\repos\\Angry\\Angry\\D.cs",
+              "RelativeToolTip": "Angry\\D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:41:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "date.txt",
+              "DocumentMoniker": "C:\\Users\\Galina\\source\\repos\\Angry\\Angry\\date.txt",
+              "RelativeDocumentMoniker": "Angry\\date.txt",
+              "ToolTip": "C:\\Users\\Galina\\source\\repos\\Angry\\Angry\\date.txt",
+              "RelativeToolTip": "Angry\\date.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-09T05:42:17.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
