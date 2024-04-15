@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u0437\u0430\u0434\u0430\u0447\u0430-\u041E\u043A\u043D\u043E",
+      "appliesTo": "\u041E\u043A\u043D\u043E/\u041E\u043A\u043D\u043E.cs",
+      "type": "launch"
+    }
+  ]
+}

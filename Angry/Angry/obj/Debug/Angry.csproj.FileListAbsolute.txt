@@ -5,3 +5,10 @@ C:\Users\Galina\source\repos\Angry\Angry\obj\Debug\Angry.csproj.AssemblyReferenc
 C:\Users\Galina\source\repos\Angry\Angry\obj\Debug\Angry.csproj.CoreCompileInputs.cache
 C:\Users\Galina\source\repos\Angry\Angry\obj\Debug\Angry.exe
 C:\Users\Galina\source\repos\Angry\Angry\obj\Debug\Angry.pdb
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\bin\Debug\Angry.exe.config
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\bin\Debug\Angry.exe
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\bin\Debug\Angry.pdb
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\obj\Debug\Angry.csproj.AssemblyReference.cache
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\obj\Debug\Angry.csproj.CoreCompileInputs.cache
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\obj\Debug\Angry.exe
+C:\Users\Galina\source\repos\EkaterinaOstapenko\AiSD2022\Angry\Angry\obj\Debug\Angry.pdb

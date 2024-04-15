@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Angry",
     "\\AngryBirds",
-    "\\Angry\\Angry"
+    "\\AngryBirds\\AngryBirds",
+    "\\Angry\\Angry",
+    "\\Window"
   ],
-  "SelectedNode": "\\Angry",
+  "SelectedNode": "\\Angry\\Angry\\D.cs",
   "PreviewInSolutionExplorer": false
 }
