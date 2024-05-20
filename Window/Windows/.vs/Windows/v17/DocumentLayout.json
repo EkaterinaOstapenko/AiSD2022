@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|c:\\users\\galina\\desktop\\ekaterinaostapenko\\aisd2022\\window\\windows\\windows\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|solutionrelative:windows\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|c:\\users\\galina\\desktop\\ekaterinaostapenko\\aisd2022\\window\\windows\\windows\\angrybirds.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|solutionrelative:windows\\angrybirds.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|c:\\users\\galina\\desktop\\ekaterinaostapenko\\aisd2022\\window\\windows\\windows\\windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF7CBFBF-3CF5-4818-B315-A6B5135D4239}|Windows\\Windows.csproj|solutionrelative:windows\\windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +33,26 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Window.cs",
@@ -32,10 +60,33 @@
               "RelativeDocumentMoniker": "Windows\\Window.cs",
               "ToolTip": "C:\\Users\\Galina\\Desktop\\EkaterinaOstapenko\\AiSD2022\\Window\\Windows\\Windows\\Window.cs",
               "RelativeToolTip": "Windows\\Window.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T06:25:44.653Z",
+              "WhenOpened": "2024-04-15T06:52:28.05Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AngryBirds.jpg",
+              "DocumentMoniker": "C:\\Users\\Galina\\Desktop\\EkaterinaOstapenko\\AiSD2022\\Window\\Windows\\Windows\\AngryBirds.jpg",
+              "RelativeDocumentMoniker": "Windows\\AngryBirds.jpg",
+              "ToolTip": "C:\\Users\\Galina\\Desktop\\EkaterinaOstapenko\\AiSD2022\\Window\\Windows\\Windows\\AngryBirds.jpg",
+              "RelativeToolTip": "Windows\\AngryBirds.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-15T06:52:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Windows.csproj",
+              "DocumentMoniker": "C:\\Users\\Galina\\Desktop\\EkaterinaOstapenko\\AiSD2022\\Window\\Windows\\Windows\\Windows.csproj",
+              "RelativeDocumentMoniker": "Windows\\Windows.csproj",
+              "ToolTip": "C:\\Users\\Galina\\Desktop\\EkaterinaOstapenko\\AiSD2022\\Window\\Windows\\Windows\\Windows.csproj",
+              "RelativeToolTip": "Windows\\Windows.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T06:51:05.517Z"
             }
           ]
         }

@@ -3,10 +3,12 @@
     "",
     "\\Angry",
     "\\AngryBirds",
-    "\\AngryBirds\\AngryBirds",
     "\\Angry\\Angry",
-    "\\Window"
+    "\\Window",
+    "\\Window\\Input",
+    "\\Window\\Input\\Input",
+    "\\Window\\Windows"
   ],
-  "SelectedNode": "\\Angry\\Angry\\D.cs",
+  "SelectedNode": "\\Window\\Input\\Input\\Input.cs",
   "PreviewInSolutionExplorer": false
 }

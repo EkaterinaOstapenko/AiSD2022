@@ -1,0 +1,15 @@
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\bin\Debug\net8.0-windows\Input.exe
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\bin\Debug\net8.0-windows\Input.deps.json
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\bin\Debug\net8.0-windows\Input.runtimeconfig.json
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\bin\Debug\net8.0-windows\Input.dll
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\bin\Debug\net8.0-windows\Input.pdb
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.AssemblyInfoInputs.cache
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.AssemblyInfo.cs
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.csproj.CoreCompileInputs.cache
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.sourcelink.json
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.dll
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\refint\Input.dll
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.pdb
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\Input.genruntimeconfig.cache
+C:\Users\Galina\Desktop\EkaterinaOstapenko\AiSD2022\Window\Input\Input\obj\Debug\net8.0-windows\ref\Input.dll
